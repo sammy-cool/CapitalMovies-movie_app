@@ -52,9 +52,9 @@ This is an example of how to list things you need to use the software and how to
 (&#x1F34E;): 🍎 -->AND YOU GOOD TO GO-->
 ![CAPITALmOVIES](https://user-images.githubusercontent.com/71437463/136223106-0019b41a-9ecc-4d91-99a2-0d6de5df152d.png)
 
-**(&#x1F53B;): 🔻(&#x1F53B;): 🔻(&#x1F53B;):
+(&#x1F53B;): 🔻(&#x1F53B;): 🔻(&#x1F53B;):
 
 ![capitalMovies](https://user-images.githubusercontent.com/71437463/136223203-051d6f1a-4ca9-418a-ba5e-b282c1ec9323.png)
-**(&#x1F49C;):💜(&#x1F4D7;):📗(&#x1F4D8;):📘(&#x1F4D9;): 📙
+**(&#x1F4D7;):📗(&#x1F4D8;):📘(&#x1F4D9;): 📙**
 <p align="right">(<a href="#top">back to top</a>)</p>
 
