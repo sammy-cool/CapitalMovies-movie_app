@@ -44,6 +44,11 @@ This is an example of how to list things you need to use the software and how to
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
+5. Enter your PORT and CONNECTION_URL in `.env` file check `.env.example` to create your own PORT or MONGODBATLAS_URL
+   ```js
+   PORT = 'PORT';
+   CONNECTION_URL = 'MONGODB ATLAS URL';
+   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
