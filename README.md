@@ -49,16 +49,12 @@ This is an example of how to list things you need to use the software and how to
    PORT = 'PORT';
    CONNECTION_URL = 'MONGODB ATLAS URL';
    ```
-RED APPLE (&#x1F34E;): 🍎 -->AND YOU GOOD TO GO-->
+(&#x1F34E;): 🍎 -->AND YOU GOOD TO GO-->
 ![CAPITALmOVIES](https://user-images.githubusercontent.com/71437463/136223106-0019b41a-9ecc-4d91-99a2-0d6de5df152d.png)
-DOWN-POINTING RED TRIANGLE (&#x1F53B;): 🔻
+
+(&#x1F53B;): 🔻(&#x1F53B;): 🔻(&#x1F53B;): 🔻
+
 ![capitalMovies](https://user-images.githubusercontent.com/71437463/136223203-051d6f1a-4ca9-418a-ba5e-b282c1ec9323.png)
-BLUE HEART (&#x1F499;): 💙
-GREEN HEART (&#x1F49A;): 💚
-YELLOW HEART (&#x1F49B;): 💛
-PURPLE HEART (&#x1F49C;): 💜
-GREEN BOOK (&#x1F4D7;): 📗
-BLUE BOOK (&#x1F4D8;): 📘
-ORANGE BOOK (&#x1F4D9;): 📙
+(&#x1F499;):💙(&#x1F49A;):💚(&#x1F49B;):💛(&#x1F49C;):💜(&#x1F4D7;):📗(&#x1F4D8;):📘(&#x1F4D9;): 📙
 <p align="right">(<a href="#top">back to top</a>)</p>
 
