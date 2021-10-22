@@ -1,4 +1,4 @@
-### CapitalMovies-movie_app
+# CapitalMovies-movie_app
 **Movie App with TMDB (THE MOVIE DATABASE) API**
 ### [LIVE APP URL](https://capitalmovie1s.netlify.app/)
 
